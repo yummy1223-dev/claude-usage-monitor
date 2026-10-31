@@ -1,0 +1,6 @@
+{
+  "name": "claude-usage-monitor",
+  "description": "Compact one-line usage monitor mod for Claude Code",
+  "owner": { "name": "yummy1223-dev" },
+  "plugins": [{ "name": "usage-monitor", "source": "./" }]
+}

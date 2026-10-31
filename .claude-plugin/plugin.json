@@ -1,0 +1,1 @@
+{ "name": "usage-monitor", "version": "0.1.0", "description": "Always-on one-line usage monitor: context window, rate limits and session cost", "author": { "name": "yummy1223-dev" }, "license": "MIT", "types": "./types/index.d.ts" }
