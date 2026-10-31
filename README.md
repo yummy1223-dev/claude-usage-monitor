@@ -18,9 +18,6 @@ Updates after every turn; reset countdowns tick every 30 seconds.
 
 ## Install
 
-This repository is private: installing needs read access to it on GitHub and a git credential
-for github.com on your machine (an SSH key, or `gh auth login` then `gh auth setup-git`).
-
 At the prompt of a terminal session:
 
 ```
